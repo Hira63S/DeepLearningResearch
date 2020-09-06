@@ -1,1 +1,3 @@
 # DeepLearningResearch
+
+This repository is focused on simplifying and dissecting the latest techniques in the field of computer vision. The detailed notebooks that summarize the techniques described in latest research papers can be found in **Research Papers** folder. The **Autopilot** folder contains multiple different explanatory and exploratory notebooks that detail the working of the autopilot program at Tesla. They have one of the most robust and up-to-date program where they try and test latest techniques in the field of Computer Vision. So, I am always super excited to explore a new technique and find ways of using it in making autonomous cars a reality! 
